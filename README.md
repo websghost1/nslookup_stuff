@@ -2,7 +2,7 @@ You can run the files in two ways:
 
 1) Run it from IDE for Python
 
-2) Run in on Ubuntu (or Deb linux).
+2) Run in on Ubuntu (or any other Deb linux).
 
    ----------------------
 
